@@ -1,6 +1,6 @@
 # Unlock me (Reverse, 116pts)
 ## Задание
-Дан файл, ELF 32-bit LSB executable, MIPS-II version 1.
+Дан [файл](ASIS2017_unlock_me/unlock_me), ELF 32-bit LSB executable, MIPS-II version 1.
 
 
 Запускаем его напрямую с помощью qemu-user-binfmt или qemu-static-mipsel. 
